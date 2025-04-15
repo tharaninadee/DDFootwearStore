@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DDStore.MVC",
+    "\\DDStore.MVC\\Controllers",
+    "\\DDStore.WebApi",
+    "\\DDStore.WebApi\\App_Start"
+  ],
+  "SelectedNode": "\\DDStore.MVC\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
